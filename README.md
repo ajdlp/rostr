@@ -1,7 +1,7 @@
 Rostr
 ======
 
-**1st Place**'Back to School' Hackathon - August 2015, DBC
+**1st Place** 'Back to School' Hackathon - August 2015, DBC
 
 **Rostr** is a tool for teachers/organizers to create balanced groups based on skill level. It was developed at a 'Back to School' themed hackathon held by Dev Bootcamp, San Francisco. The idea for Rostr emerged from a problem faced at the hackathon itself, when groups became unbalanced upon formation. We felt organizers would benefit from a group building tool, so we built one. We intend to continue to build Rostr beyond its hackathon version.
 
